@@ -15,11 +15,9 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Screenshot
 
-![](./desktop-screenshot.png)
+![](./screenshot.png)
 
-![](./mobile-screenshot.png)
-
-![](./mobile-screenshot-active.png)
+![](./screenshot-active.PNG)
 
 
 ### Links
@@ -32,7 +30,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 - Semantic HTML5 markup
 - Flexbox
-
+- CSS image overlay trick
 
 ## Author
 
