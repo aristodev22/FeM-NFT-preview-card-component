@@ -11,7 +11,7 @@ img {
 }
 
 body {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 300;
     font-family: Outfit, sans-serif;
     color: hsl(215, 51%, 70%);
@@ -91,34 +91,6 @@ body {
 .card-content .nft-name:hover {
     color: hsl(178, 100%, 50%);
 }
-
-
-/* @media only screen and (min-width: 768px) {
-    .card {
-        width: 600px;
-        height: 450px;
-        display: flex;
-        gap: 16px;   
-    }
-
-    .nft-image {
-        flex: 1;
-        display: flex;
-    }
-
-    .nft-image img {
-        border-radius: 20px 0 0 20px;
-        height: 100%;
-    }
-    
-    .card-content {
-        flex: 1;
-    }
-
-    .card-content .nft-name {
-        font-size: 40px;
-    }
-} */
 
 .card-content .price-div {
     display: flex;
